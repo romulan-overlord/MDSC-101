@@ -1,3 +1,3 @@
 # MDSC-101
 
-Repository for all the code i write in my Applied Linear Algebra class.
+Repository for all the code I write in my Applied Linear Algebra practicals.
