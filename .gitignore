@@ -1,3 +1,6 @@
 eigenFaces/Caltech_WebFaces.tar
 eigenFaces/Caltech_WebFaces/*.jpg
 eigenFaces/ex2/Caltech_WebFaces/*.jpg
+eigenFaces/*.jpg
+eigenFaces/Caltech_WebFaces/set_1/*.jpg
+eigenFaces/My_DataSet/*.jpg
